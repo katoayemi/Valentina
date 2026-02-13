@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #ffe6f0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.container {
+    margin-top: 120px;
+}
+
+h1 {
+    font-size: 32px;
+    color: #cc0066;
+}
+
+.buttons {
+    margin-top: 40px;
+}
+
+button {
+    padding: 12px 30px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    margin: 10px;
+    transition: 0.3s;
+}
+
+#yesBtn {
+    background-color: #ff4d88;
+    color: white;
+}
+
+#noBtn {
+    background-color: #999;
+    color: white;
+}
